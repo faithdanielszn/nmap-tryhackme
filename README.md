@@ -33,6 +33,8 @@ The **OhSINT room** on [TryHackMe](https://tryhackme.com/room/ohsint) is an exce
 The first step was downloading the task file by clicking the **“Download Task Files”** button in Task 1.  
 This gave me the image file required for investigation.
 
+![task file](ohsint.jpg)
+
 ---
 
 ## OSINT Investigation: Revealing Hidden Insights
